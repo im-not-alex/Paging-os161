@@ -1,11 +1,6 @@
-
-
-<center>Project C1 : PAGING</center>
-=============
+<h2>Project C1 : PAGING</h2>
 <center><h3>Programmazione di Sistema, AY 2019/2020
-<br/>Nicolas Fergnani [@NicoF96](https://github.com/NicoF96) &nbsp;&nbsp;&nbsp;&nbsp; Alexandru Valentin Onica [@im-not-alex](https://github.com/im-not-alex)</h3></center>
-<br/>
-<br/>
+	<br/>Nicolas Fergnani (<a href="https://github.com/NicoF96" target="_blank">@NicoF96</a>) &nbsp;&nbsp;&nbsp;&nbsp; Alexandru Valentin Onica (<a href="https://github.com/im-not-alex" target="_blank">@im-not-alex</a>)</h3></center><br/>
 
 # Data Structures
 
